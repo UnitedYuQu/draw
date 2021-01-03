@@ -2,40 +2,56 @@
 visible=true
 enable=true
 namecheatblockcheat=Aurora
-descriptionblockcheat=бесплатный
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
+descriptionfullru=Прекрасный чит для игры CS:GO. Удобный интерфейс на русском языке с переключением темы; большое количество уникальных функций: воллхак с полным обходом записи на видео и прямых трансляциях; плавный и четкий легит аимбот, жесткий и быстрый рейдж аимбот; ченджер инвентаря, профиля, добавление медалей; легит анти-аимы. Чит предоставит Вам полное преимущество над вашими противниками в любой ситуации и точно не оставит Вас равнодушным
+descriptionfullen=A great cheat for CS: GO. User-friendly interface with theme switching; a large number of unique features: a wallhack with a complete bypass of recording on video and live broadcasts; smooth and clear legit aimbot, hard and fast rage aimbot; changer of inventory, profile, adding medals; anti-aim leg. Cheat will give you a full advantage over your opponents in any situation and will definitely not leave you indifferent
+descriptionfullua=Прекрасний чит для гри CS: GO. Зручний інтерфейс з перемиканням теми; велика кількість унікальних функцій: воллхака з повним обходом записи на відео і прямих трансляціях; плавний і чіткий легіт аімбот, жорсткий і швидкий рейдж аімбот; ченджер інвентарю, профілю, додавання медалей; легіт анти-аіми. Чит надасть Вам повну перевагу над вашими противниками в будь-якій ситуації і точно не залишить Вас байдужим
+imgurl=https://xyecoc.pw/YuQu/img/aurora.png
 versioncheatblockcheat=v1.3
 
 [cheat2]
 visible=true
 enable=true
 namecheatblockcheat=Aurora
-descriptionblockcheat=бесплатный
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
 versioncheatblockcheat=v1.3
 
 [cheat3]
 visible=true
 enable=true
 namecheatblockcheat=Aurora
-descriptionblockcheat=бесплатный
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
 versioncheatblockcheat=v1.3
 
 [cheat4]
 visible=true
 enable=true
 namecheatblockcheat=Aurora
-descriptionblockcheat=бесплатный
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
 versioncheatblockcheat=v1.3
 
 [cheat5]
 visible=true
 enable=true
 namecheatblockcheat=Aurora
-descriptionblockcheat=бесплатный
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
 versioncheatblockcheat=v1.3
 
 [cheat6]
 visible=true
-enable=true
+enable=false
 namecheatblockcheat=Aurora
-descriptionblockcheat=бесплатный
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний	
+descriptionblockcheaten=free
 versioncheatblockcheat=v1.3
