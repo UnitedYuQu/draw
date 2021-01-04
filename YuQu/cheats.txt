@@ -28,7 +28,7 @@ versioncheatblockcheat=v1.3
 
 [cheat3]
 visible=true
-enable=false
+enable=true
 elementname=gamesense
 namecheatblockcheat=gamesense
 descriptionblockcheatru=платний
