@@ -42,7 +42,7 @@ versioncheatblockcheat=v1.3
 
 [cheat4]
 visible=true
-enable=false
+enable=true
 elementname=aurora
 namecheatblockcheat=женя
 descriptionblockcheatru=ты гей
