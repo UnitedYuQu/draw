@@ -18,6 +18,10 @@ namecheatblockcheat=Aurora
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
+descriptionfullru=Russian
+descriptionfullen=English
+descriptionfullua=Украина
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=v1.3
 
 [cheat3]
@@ -27,6 +31,10 @@ namecheatblockcheat=Aurora
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
+descriptionfullru=Russian
+descriptionfullen=English
+descriptionfullua=Украина
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=v1.3
 
 [cheat4]
@@ -36,6 +44,10 @@ namecheatblockcheat=Aurora
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
+descriptionfullru=Russian
+descriptionfullen=English
+descriptionfullua=Украина
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=v1.3
 
 [cheat5]
@@ -45,13 +57,34 @@ namecheatblockcheat=Aurora
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
+descriptionfullru=Russian
+descriptionfullen=English
+descriptionfullua=Украина
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=v1.3
 
 [cheat6]
 visible=true
-enable=false
+enable=true
 namecheatblockcheat=Aurora
 descriptionblockcheatru=бесплатный
-descriptionblockcheatua=безплатний	
+descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
+descriptionfullru=Russian
+descriptionfullen=English
+descriptionfullua=Украина
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
+versioncheatblockcheat=v1.3
+
+[cheat7]
+visible=true
+enable=true
+namecheatblockcheat=Aurora
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
+descriptionfullru=Russian
+descriptionfullen=English
+descriptionfullua=Украина
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=v1.3
