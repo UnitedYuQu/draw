@@ -1,1 +1,2 @@
-chill.exe
+[updater]
+name=jopa.exe
