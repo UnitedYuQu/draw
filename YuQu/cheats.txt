@@ -37,7 +37,7 @@ descriptionblockcheaten=платний
 descriptionfullru=платный
 descriptionfullen=platniy
 descriptionfullua=платнiй
-imgurl=null
+imgurl=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdonpress.com%2Ffiles%2Fstyles%2Fxlwd%2Fpublic%2Fimages%2Fnews%2F1812%2FScreenshot_13.png%3Fitok%3DKSmmJpJZ&f=1&nofb=1
 versioncheatblockcheat=v1.3
 
 [cheat4]
