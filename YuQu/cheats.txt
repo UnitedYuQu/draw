@@ -20,9 +20,9 @@ namecheatblockcheat=я гей
 descriptionblockcheatru=нет блин натурал
 descriptionblockcheatua=нет блин москаль
 descriptionblockcheaten=net blin lgbt
-descriptionfullru=Russian
-descriptionfullen=English
-descriptionfullua=Украина
+descriptionfullru=asd
+descriptionfullen=asd
+descriptionfullua=asd
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=v1.3
 
