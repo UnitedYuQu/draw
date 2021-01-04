@@ -1,2 +1,2 @@
 [updater]
-name=gavni.exe
+name=YuQu-Release.exe
