@@ -9,7 +9,7 @@ textua=Бета-версія лоадера YuQu 2021.
 
 
 [cheats]
-value=8
+value=17
 
 [cheat1]
 visible=true
