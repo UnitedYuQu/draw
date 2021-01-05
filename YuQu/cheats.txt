@@ -1,5 +1,5 @@
 [cheats]
-value=1
+value=2
 
 [cheat1]
 visible=true
