@@ -13,7 +13,7 @@ descriptionfullru=Прекрасный чит для игры CS:GO. Удобн�
 descriptionfullen=A great cheat for CS: GO. User-friendly interface with theme switching; a large number of unique features: a wallhack with a complete bypass of recording on video and live broadcasts; smooth and clear legit aimbot, hard and fast rage aimbot; changer of inventory, profile, adding medals; anti-aim leg. Cheat will give you a full advantage over your opponents in any situation and will definitely not leave you indifferent
 descriptionfullua=Прекрасний чит для гри CS: GO. Зручний інтерфейс з перемиканням теми; велика кількість унікальних функцій: воллхака з повним обходом записи на відео і прямих трансляціях; плавний і чіткий легіт аімбот, жорсткий і швидкий рейдж аімбот; ченджер інвентарю, профілю, додавання медалей; легіт анти-аіми. Чит надасть Вам повну перевагу над вашими противниками в будь-якій ситуації і точно не залишить Вас байдужим
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=
+versioncheatblockcheat=1
 
 [cheat2]
 visible=true
@@ -27,7 +27,7 @@ descriptionfullru=Osiris - чит на КС:ГО, доступен беспла�
 descriptionfullen=Osiris - cheat on CS:GO, is available for free and has a minimal probability of leading the player to receive a VAC-ban if there is an up-to-date version. Osiris is regularly updated, so you should not be afraid of blocking. Multihack provides everything that can be useful in the game: aimbot, trigger bot, third-person view, Skin Changer, jump and much more. In fact, almost all cheats are collected here in one, with a huge number of settings. This will allow you to customize them for yourself and adjust them depending on who the match is being played against.
 descriptionfullua=Osiris - чит на КС: ГО, доступний безкоштовно і має мінімальну ймовірність привести гравця до отримання VAC-бана при наявності актуальної версії. Osiris регулярно оновлюється, так що побоюватися блокувань не слід. Мультихак надає все, що може стати в нагоді в грі: аімбот, тригербот, вид від третьої особи, Skin Changer, розприжку і багато іншого. Фактично тут зібрані практично всі чіти в одному, з величезною кількістю налаштувань. Це дозволить налаштувати їх під себе і регулювати в залежності від того, проти кого ведеться матч.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img2.png
-versioncheatblockcheat=
+versioncheatblockcheat=2
 
 [cheat3]
 visible=true
@@ -41,7 +41,7 @@ descriptionfullru=платный
 descriptionfullen=platniy
 descriptionfullua=платнiй
 imgurl=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdonpress.com%2Ffiles%2Fstyles%2Fxlwd%2Fpublic%2Fimages%2Fnews%2F1812%2FScreenshot_13.png%3Fitok%3DKSmmJpJZ&f=1&nofb=1
-versioncheatblockcheat=v1.3
+versioncheatblockcheat=3
 
 [cheat4]
 visible=true
@@ -55,7 +55,7 @@ descriptionfullru=пидар
 descriptionfullen=пидар
 descriptionfullua=пидар
 imgurl=http://gribokstop.com/wp-content/uploads/2017/02/gribok-na-chlene-foto.png
-versioncheatblockcheat=v1.3
+versioncheatblockcheat=4
 
 [cheat5]
 visible=true
@@ -69,7 +69,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=v1.3
+versioncheatblockcheat=5
 
 [cheat6]
 visible=true
@@ -83,7 +83,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=v1.3
+versioncheatblockcheat=6
 
 [cheat7]
 visible=true
@@ -97,4 +97,4 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=v1.3
+versioncheatblockcheat=7
