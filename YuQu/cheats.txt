@@ -121,7 +121,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=8
 [cheat9]
 visible=true
 enable=true
@@ -134,7 +134,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=9
 [cheat10]
 visible=true
 enable=true
@@ -147,7 +147,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=10
 [cheat11]
 visible=true
 enable=true
@@ -160,7 +160,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=11
 [cheat12]
 visible=true
 enable=true
@@ -173,7 +173,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=12
 [cheat13]
 visible=true
 enable=true
@@ -186,7 +186,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=13
 [cheat14]
 visible=true
 enable=true
@@ -199,7 +199,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=14
 [cheat15]
 visible=true
 enable=true
@@ -212,7 +212,7 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=15
 [cheat16]
 visible=true
 enable=true
@@ -225,4 +225,4 @@ descriptionfullru=Russian
 descriptionfullen=English
 descriptionfullua=Украина
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=7
+versioncheatblockcheat=16
