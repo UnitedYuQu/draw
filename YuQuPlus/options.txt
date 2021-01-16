@@ -1,1 +1,9 @@
+[Default]
+Value=1
 
+[Game1]
+elementname=cyberpunk
+name=Cyberpunk 2077
+namehide=true
+imagelight=(url)/
+imagedark=(url)/
