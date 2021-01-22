@@ -57,7 +57,7 @@ descriptionblockcheaten=crack
 descriptionfullru=Onetap - один из самых популярных читов в зарубежном интернете. Если читер пишет в поисковике крутилка для кс го, то чаще всего он ищет именно кряк вантапа.
 descriptionfullen=Onetap - is one of the most popular cheats on the foreign Internet. If a cheater writes in the search engine twister for cs go, then most often he is looking for a crack of onetap.
 descriptionfullua=Onetap - один з найпопулярніших читів в зарубіжному Інтернеті. Якщо читер пише в пошуковику крутилка для кс го, то найчастіше він шукає саме кряк вантапа.
-imgurl=https://media.discordapp.net/attachments/785132744807546880/802188568780472340/unknown.png?width=504&height=561
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown2.png
 versioncheatblockcheat=3
 
 [cheat4]
@@ -71,7 +71,7 @@ descriptionblockcheaten=crack
 descriptionfullru=Популярный HVH чит на CSGO pandora. Этот приватный чит долгое время продавался на рынке хаков, но благодаря пользователю nelfo вы сможете использовать этот софт бесплатно. Множество различных уникальных функций для hvh серверов. Перед запуском обязательно создайте папку pdr в разделе /Documents
 descriptionfullen=A popular HVH cheat on CSGO pandora. This private cheat has been sold on the hack market for a long time, but thanks to the user nelfo, you will be able to use this software for free. Many different unique features for HVH servers. Make sure to create a pdr folder in the /Documents section before running it
 descriptionfullua=Популярний hvh чит на CSGO pandora. Цей приватний чит довгий час продавався на ринку хаков, але завдяки користувачеві nelfo ви зможете використовувати цей софт безкоштовно. Безліч різних унікальних функцій для hvh серверів. Перед запуском обов'язково створіть папку pdr в розділі / Documents
-imgurl=https://media.discordapp.net/attachments/785132744807546880/802196702567596043/unknown.png?width=768&height=561
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown1.png
 versioncheatblockcheat=4
 
 [cheat5]
@@ -85,7 +85,7 @@ descriptionblockcheaten=legit
 descriptionfullru=Очередной российский проект чита для CS-GO который был взломан и предоставлен бесплатно для общего использования. Спасибо пользователю rx1337 за бесплатный вариант данного хака. На вид отличный легитный чит для CS-GO, удобное и красивое меню при помощи которого вы сможете управлять функционалом хака. Здесь есть все самые известные функции, а также дополнительно несколько уникальных функций которые вы не найдете в других читах. 
 descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
 descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
-imgurl=https://media.discordapp.net/attachments/785132744807546880/802198137363759134/unknown.png?width=1039&height=561
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
 versioncheatblockcheat=5
 
 [cheat6]
