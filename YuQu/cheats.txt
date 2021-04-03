@@ -9,7 +9,7 @@ textua=Бета-версія лоадера YuQu 2021.
 
 
 [cheats]
-value=5
+value=10
 
 [cheat1]
 visible=true
@@ -75,6 +75,76 @@ imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown1.
 versioncheatblockcheat=4
 
 [cheat5]
+visible=true
+enable=true
+elementname=haunted_crack
+namecheatblockcheat=Haunted
+descriptionblockcheatru=легит
+descriptionblockcheatua=легiт
+descriptionblockcheaten=legit
+descriptionfullru=Очередной российский проект чита для CS-GO который был взломан и предоставлен бесплатно для общего использования. Спасибо пользователю rx1337 за бесплатный вариант данного хака. На вид отличный легитный чит для CS-GO, удобное и красивое меню при помощи которого вы сможете управлять функционалом хака. Здесь есть все самые известные функции, а также дополнительно несколько уникальных функций которые вы не найдете в других читах. 
+descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
+descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
+versioncheatblockcheat=5
+
+[cheat6]
+visible=true
+enable=true
+elementname=haunted_crack
+namecheatblockcheat=Haunted
+descriptionblockcheatru=легит
+descriptionblockcheatua=легiт
+descriptionblockcheaten=legit
+descriptionfullru=Очередной российский проект чита для CS-GO который был взломан и предоставлен бесплатно для общего использования. Спасибо пользователю rx1337 за бесплатный вариант данного хака. На вид отличный легитный чит для CS-GO, удобное и красивое меню при помощи которого вы сможете управлять функционалом хака. Здесь есть все самые известные функции, а также дополнительно несколько уникальных функций которые вы не найдете в других читах. 
+descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
+descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
+versioncheatblockcheat=5
+
+[cheat7]
+visible=true
+enable=true
+elementname=haunted_crack
+namecheatblockcheat=Haunted
+descriptionblockcheatru=легит
+descriptionblockcheatua=легiт
+descriptionblockcheaten=legit
+descriptionfullru=Очередной российский проект чита для CS-GO который был взломан и предоставлен бесплатно для общего использования. Спасибо пользователю rx1337 за бесплатный вариант данного хака. На вид отличный легитный чит для CS-GO, удобное и красивое меню при помощи которого вы сможете управлять функционалом хака. Здесь есть все самые известные функции, а также дополнительно несколько уникальных функций которые вы не найдете в других читах. 
+descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
+descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
+versioncheatblockcheat=5
+
+[cheat8]
+visible=true
+enable=true
+elementname=haunted_crack
+namecheatblockcheat=Haunted
+descriptionblockcheatru=легит
+descriptionblockcheatua=легiт
+descriptionblockcheaten=legit
+descriptionfullru=Очередной российский проект чита для CS-GO который был взломан и предоставлен бесплатно для общего использования. Спасибо пользователю rx1337 за бесплатный вариант данного хака. На вид отличный легитный чит для CS-GO, удобное и красивое меню при помощи которого вы сможете управлять функционалом хака. Здесь есть все самые известные функции, а также дополнительно несколько уникальных функций которые вы не найдете в других читах. 
+descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
+descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
+versioncheatblockcheat=5
+
+[cheat9]
+visible=true
+enable=true
+elementname=haunted_crack
+namecheatblockcheat=Haunted
+descriptionblockcheatru=легит
+descriptionblockcheatua=легiт
+descriptionblockcheaten=legit
+descriptionfullru=Очередной российский проект чита для CS-GO который был взломан и предоставлен бесплатно для общего использования. Спасибо пользователю rx1337 за бесплатный вариант данного хака. На вид отличный легитный чит для CS-GO, удобное и красивое меню при помощи которого вы сможете управлять функционалом хака. Здесь есть все самые известные функции, а также дополнительно несколько уникальных функций которые вы не найдете в других читах. 
+descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
+descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
+versioncheatblockcheat=5
+
+[cheat10]
 visible=true
 enable=true
 elementname=haunted_crack
