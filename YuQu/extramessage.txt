@@ -1,5 +1,5 @@
 [extramessage]
-enable=true
+enable=false
 textua=Увага! Якщо ви потрапили на цю сторінку, будь ласка, напишіть на підтримку.
 textru=Внимание! Если вы попали на эту страницу, пожалуйста, напишите в поддержку.
 texten=Attention! If you got to this page, please write to support.
