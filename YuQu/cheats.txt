@@ -112,8 +112,8 @@ versioncheatblockcheat=7
 [cheat8]
 visible=true
 enable=true
-elementname=none
-namecheatblockcheat=none
+elementname=evoware
+namecheatblockcheat=Evoware
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
@@ -138,7 +138,7 @@ imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/echzoy.pn
 versioncheatblockcheat=9
 
 [cheat10]
-visible=true
+visible=false
 enable=true
 elementname=haunted_crack
 namecheatblockcheat=Haunted
