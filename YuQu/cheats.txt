@@ -93,7 +93,7 @@ descriptionfullru=Очередной российский проект чита 
 descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
 descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
-versioncheatblockcheat=5
+versioncheatblockcheat=6
 
 [cheat7]
 visible=true
@@ -107,7 +107,7 @@ descriptionfullru=Очередной российский проект чита 
 descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
 descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
-versioncheatblockcheat=5
+versioncheatblockcheat=7
 
 [cheat8]
 visible=true
@@ -121,7 +121,7 @@ descriptionfullru=Очередной российский проект чита 
 descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
 descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
-versioncheatblockcheat=5
+versioncheatblockcheat=8
 
 [cheat9]
 visible=true
@@ -135,7 +135,7 @@ descriptionfullru=Очередной российский проект чита 
 descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
 descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
-versioncheatblockcheat=5
+versioncheatblockcheat=9
 
 [cheat10]
 visible=true
@@ -149,4 +149,4 @@ descriptionfullru=Очередной российский проект чита 
 descriptionfullen=Another Russian project of a cheat for CS-GO that was hacked and provided for free for general use. Thanks to user rx1337 for the free version of this hack. It looks like a great legal cheat for CS-GO, a convenient and beautiful menu with which you can manage the functionality of the hack. It has all the most famous features, as well as a few additional unique features that you will not find in other cheats.
 descriptionfullua=Черговий російський проект для CS-GO який був зламаний і наданий безкоштовно для загального використання. Спасибі користувачеві rx1337 за безкоштовний варіант даного хака. На вигляд відмінний легітимний чит для CS-GO, зручне і красиве меню за допомогою якого ви зможете управляти функціоналом хака. Тут є всі найвідоміші функції, а також додатково кілька унікальних функцій які ви не знайдете в інших читах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown.png
-versioncheatblockcheat=5
+versioncheatblockcheat=10
