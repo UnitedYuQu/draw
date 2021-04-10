@@ -70,8 +70,8 @@ versioncheatblockcheat=4
 [cheat5]
 visible=true
 enable=true
-elementname=haunted_crack
-namecheatblockcheat=Haunted
+elementname=redmoon
+namecheatblockcheat=redmoon.dll
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
@@ -84,8 +84,8 @@ versioncheatblockcheat=5
 [cheat6]
 visible=true
 enable=true
-elementname=haunted_crack
-namecheatblockcheat=Haunted
+elementname=vredux
+namecheatblockcheat=vredux.dll
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
