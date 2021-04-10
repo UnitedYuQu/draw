@@ -112,8 +112,8 @@ versioncheatblockcheat=7
 [cheat8]
 visible=true
 enable=true
-elementname=evoware
-namecheatblockcheat=Evoware
+elementname=akware
+namecheatblockcheat=Akware
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
