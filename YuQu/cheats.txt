@@ -64,7 +64,7 @@ descriptionblockcheaten=legit
 descriptionfullru=Отличный бесплатный Legit чит Echozy.pw для CS:GO, который доступен для запуска с нашего лоадера. Этот чит может послужить хорошей заменой топовому PPHUD, поскольку функциональность практически идентична, а надежность и защита не уступают другим бесплатным читам.
 descriptionfullen=Great free Legit cheat Echozy.pw for CS:GO, which is available to run from our loader. This cheat can serve as a good replacement for the top-end PPHUD, since the functionality is almost identical, and the reliability and protection are not inferior to other free cheats.
 descriptionfullua=Відмінний безкоштовний Legit чит Echozy.pw для CS: GO, який доступний для запуску з нашого лоадера. Цей чит може послужити хорошою заміною топовому PPHUD, оскільки функціональність практично ідентична, а надійність і захист не поступаються іншим безкоштовним читам.
-imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown1.png
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/echzoy.png
 versioncheatblockcheat=4
 
 [cheat5]
