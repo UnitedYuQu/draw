@@ -9,7 +9,7 @@ textua=Бета-версія лоадера YuQu 2021.
 
 
 [cheats]
-value=10
+value=11
 
 [cheat1]
 visible=true
@@ -101,8 +101,8 @@ descriptionfullua=Це рейдж чит за допомогою якого ви
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/owness.png
 versioncheatblockcheat=10
 
-[cheat7]
-visible=true
+[cheat11]
+visible=false
 enable=false
 elementname=corsair
 configfolder=C:/Users/%USERPROFILE%/AppData/Roaming/Corsair
@@ -114,7 +114,7 @@ descriptionfullru=Мы рады предоставить вам современ
 descriptionfullen=We are pleased to provide you with a modern and working cheat for the game Counter-Strike: Global Offensive. A cheat called CORSAIR will help you increase your game rank and more. Here players will be able to find extensive functionality, and completely free of charge.
 descriptionfullua=Ми раді надати вам сучасний і робочий чит для гри Counter-Strike: Global Offensive. Чит під назвою CORSAIR допоможе вам підвищити свій ігровий ранг і не тільки. Тут гравці зможуть знайти великий функціонал, причому абсолютно безкоштовно.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/corsair.png
-versioncheatblockcheat=7
+versioncheatblockcheat=11
 
 [cheat8]
 visible=true
