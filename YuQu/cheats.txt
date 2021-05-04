@@ -103,7 +103,7 @@ versioncheatblockcheat=10
 
 [cheat7]
 visible=true
-enable=true
+enable=false
 elementname=corsair
 configfolder=C:/Users/%USERPROFILE%/AppData/Roaming/Corsair
 namecheatblockcheat=Corsair
