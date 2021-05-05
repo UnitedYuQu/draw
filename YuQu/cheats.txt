@@ -56,7 +56,7 @@ descriptionfullua=Onetap - один з найпопулярніших читів
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown2.png
 versioncheatblockcheat=3
 
-[cheat7]
+[cheat4]
 visible=true
 enable=true
 elementname=redmoon
@@ -101,7 +101,7 @@ descriptionfullua=Відмінний безкоштовний Legit чит Echoz
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/echzoy.png
 versioncheatblockcheat=6
 
-[cheat4]
+[cheat7]
 visible=true
 enable=true
 elementname=pandora
